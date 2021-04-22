@@ -28,7 +28,7 @@ The analysis will focus on understanding the behaviour of GStore visitors using 
 - What are the most frequent channelGrouping?
 - What are the most frequent Weekdays, months, days, times with the highest accesses and revenue?
 
-After a thorough analysis I forecasted future visits to the GStore website using **fbProphet** and getting results with an high accuracy as shown in the graph below.  
+After a thorough analysis I forecasted future visits to the GStore website using **fbProphet** and getting results with a MAE(mean absolute error): 165.095 as shown in the graph below.  
 ![image](https://user-images.githubusercontent.com/73824871/115701846-83514600-a368-11eb-8f78-408439e70fe4.png)
 
 Finally several machine learning algorithm were applied to:  
