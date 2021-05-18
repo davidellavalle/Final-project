@@ -34,3 +34,8 @@ After a thorough analysis I forecasted future visits to the GStore website using
 Finally several machine learning algorithm were applied to:  
 - Classify whether future visitors would have converted into buyers.
 - Predict future revenue per buyer.
+
+The analysis has been divided into 4 notebooks to make sure they could be uploaded on Github.
+All graphs are stored in the corresponding notebooks.
+
+A [folder](https://github.com/davidellavalle/Google-anayltics-customer-behaviour-and-forecast/tree/main/Presentation) with the PPTX and final presentation has been added.
