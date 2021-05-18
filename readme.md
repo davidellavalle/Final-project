@@ -36,6 +36,10 @@ Finally several machine learning algorithm were applied to:
 - Predict future revenue per buyer.
 
 The analysis has been divided into 4 notebooks to make sure they could be uploaded on Github.
-All graphs are stored in the corresponding notebooks.
+All graphs are stored in the corresponding notebooks:
+- [Data_extraction - 1st analysis](https://github.com/davidellavalle/Google-anayltics-customer-behaviour-and-forecast/blob/main/Data_extraction%2C_analysis_on_Geo_Network_and_devices.ipynb)
+- [Analysis_on_total_and_Traffic_source](https://github.com/davidellavalle/Google-anayltics-customer-behaviour-and-forecast/blob/main/Analysis_on_total_and_Traffic_source.ipynb)
+- [Merging_DFs_and_Buyer_analysis](https://github.com/davidellavalle/Google-anayltics-customer-behaviour-and-forecast/blob/main/Merging_DFs_and_Buyer_analysis.ipynb)
+- [Forecast_and_M](https://github.com/davidellavalle/Google-anayltics-customer-behaviour-and-forecast/blob/main/Forecast_and_ML.ipynb)
 
 A [folder](https://github.com/davidellavalle/Google-anayltics-customer-behaviour-and-forecast/tree/main/Presentation) with the PPTX and final presentation has been added.
