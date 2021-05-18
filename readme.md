@@ -3,7 +3,7 @@
 ## Data
 
 The Data has been extracted from [Kaggle](https://www.kaggle.com/c/ga-customer-revenue-prediction/data) and used to analyse the customer behaviour of the visitors of the GStore e-commerce.  
-The data fields and objectives of the analysis are in the [folder](https://github.com/davidellavalle/Google-anayltics-customer-behaviour-and-forecast/tree/main/Presentation) where a PPTX and Final presentation has been added.
+The data fields objectives of the analysis are listed below.  
 
 Data Fields:  
 
@@ -30,14 +30,13 @@ The analysis will focus on understanding the behaviour of GStore visitors using 
 - What Operational System, Browser, Device are visitors and buyers mainly using?
 - What are the most frequent channelGrouping?
 - What are the most frequent Weekdays, months, days, times with the highest accesses and revenue?
-- Conclusions and Suggestions for the marketers on how to attract more visitors and turn them into buyers are presented  
+- Conclusions and Suggestions for the marketers on how to attract more visitors and turn them into buyers are given and can be found in the [folder](https://github.com/davidellavalle/Google-anayltics-customer-behaviour-and-forecast/tree/main/Presentation) where a PPTX and Final presentation has been added.   
 
-After a thorough analysis I forecasted future visits to the GStore website using **fbProphet** and getting results with a MAE(mean absolute error): 165.095 as shown in the graph below.  
+After a thorough analysis I forecasted future visits to the GStore website using **fbProphet**, getting results with a MAE(mean absolute error): 165.095 as shown in the graph below.  
 ![image](https://user-images.githubusercontent.com/73824871/115701846-83514600-a368-11eb-8f78-408439e70fe4.png)
 
 Finally several machine learning algorithm were applied to:  
 - Classify whether future visitors would have converted into buyers.
-- Predict future revenue per buyer.
 
 The analysis has been divided into 4 notebooks to make sure they could be uploaded on Github.
 All graphs are stored in the corresponding notebooks:
