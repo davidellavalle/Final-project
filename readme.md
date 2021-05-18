@@ -24,7 +24,7 @@ Some of the data is provided in a Json format therefore the first step will be e
 
 Objectives:  
 
-The analysis will focus on understanding the behaviour of GStore visitors using **Pandas, NumPy, Plotly and Seaborn**, answering to questions like:
+The analysis will focus on understanding the behaviour of GStore visitors using **Pandas, NumPy, Plotly, Seaborn, FbProphet and Random Forest**, answering to questions like:
 
 - Where do visitors come from? What countries have the most buyers?
 - What Operational System, Browser, Device are visitors and buyers mainly using?
