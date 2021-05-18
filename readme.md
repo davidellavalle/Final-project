@@ -2,6 +2,9 @@
 
 ## Data
 
+The Data has been extracted from [Kaggle](https://www.kaggle.com/c/ga-customer-revenue-prediction/data) and used to analyse the customer behaviour of the visitors of the GStore e-commerce.  
+The data fields and objectives of the analysis are in the [folder](https://github.com/davidellavalle/Google-anayltics-customer-behaviour-and-forecast/tree/main/Presentation) where a PPTX and Final presentation has been added.
+
 Data Fields:  
 
 **fullVisitorIdv** - A unique identifier for each user of the Google Merchandise Store.  
@@ -27,6 +30,7 @@ The analysis will focus on understanding the behaviour of GStore visitors using 
 - What Operational System, Browser, Device are visitors and buyers mainly using?
 - What are the most frequent channelGrouping?
 - What are the most frequent Weekdays, months, days, times with the highest accesses and revenue?
+- Conclusions and Suggestions for the marketers on how to attract more visitors and turn them into buyers are presented  
 
 After a thorough analysis I forecasted future visits to the GStore website using **fbProphet** and getting results with a MAE(mean absolute error): 165.095 as shown in the graph below.  
 ![image](https://user-images.githubusercontent.com/73824871/115701846-83514600-a368-11eb-8f78-408439e70fe4.png)
@@ -41,5 +45,3 @@ All graphs are stored in the corresponding notebooks:
 - [Analysis_on_total_and_Traffic_source](https://github.com/davidellavalle/Google-anayltics-customer-behaviour-and-forecast/blob/main/Analysis_on_total_and_Traffic_source.ipynb)
 - [Merging_DFs_and_Buyer_analysis](https://github.com/davidellavalle/Google-anayltics-customer-behaviour-and-forecast/blob/main/Merging_DFs_and_Buyer_analysis.ipynb)
 - [Forecast_and_M](https://github.com/davidellavalle/Google-anayltics-customer-behaviour-and-forecast/blob/main/Forecast_and_ML.ipynb)
-
-A [folder](https://github.com/davidellavalle/Google-anayltics-customer-behaviour-and-forecast/tree/main/Presentation) with the PPTX and final presentation has been added.
